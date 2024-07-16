@@ -1,6 +1,6 @@
 [project]
 name = "power01_min"
-version = "0.1.0"
+version = "0.1.1"
 description = "Default template for PDM package"
 authors = [
     {name = "baechu805", email = "bjoo606@naver.com"},
@@ -11,7 +11,7 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-min = "power01_min.min:min"
+min = "power01_min.min:minus"
 
 [tool.pdm]
 distribution = true

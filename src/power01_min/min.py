@@ -1,2 +1,2 @@
-def min():
-    print("min")
+def minus():
+    print("minus")
